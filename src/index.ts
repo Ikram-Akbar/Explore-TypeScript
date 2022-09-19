@@ -64,3 +64,5 @@ const multi = (para1: number, para2: number) => {
     }
 }
 
+console.log(multi(20, 10));
+
