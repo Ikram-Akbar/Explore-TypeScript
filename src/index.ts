@@ -91,3 +91,9 @@ function getCustomer(id: number): Customer | null {
 }
 let customer = getCustomer(0);
 console.log(customer);
+
+
+// declare array
+
+const arr: number[] = [1, 2, 3, 4, 5]
+const arr1: (string | number)[]= [1, "2", 3, 4, 5]
